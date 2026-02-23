@@ -1,0 +1,5 @@
+[
+  { "vendor_id": "VEND001", "name": "Acme Supplies", "active": true },
+  { "vendor_id": "VEND002", "name": "Northwind Traders", "active": true },
+  { "vendor_id": "VEND999", "name": "Blocked Vendor", "active": false }
+]
